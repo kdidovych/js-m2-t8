@@ -6,8 +6,8 @@ console.log(factorial(n));
 /**
  * Factorial calculation example with recursion
  *
- * @param {Number} num 
- * @returns Number
+ * @param {Number} n
+ * @returns {Number}
  */
 function factorial(n) {
     if (n <= 1) {
