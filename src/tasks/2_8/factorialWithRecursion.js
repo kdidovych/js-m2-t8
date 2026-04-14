@@ -5,7 +5,6 @@ console.log(factorial(n));
 
 /**
  * Factorial calculation example with recursion
- *
  * @param {Number} n
  * @returns {Number}
  */
